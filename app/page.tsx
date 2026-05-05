@@ -11,12 +11,12 @@ export default function Home() {
     name: 'Jhon Clein Pagarogan',
     position: 'Software Engineer Intern',
     company: 'WMSU - CCS',
-    bio: 'Passionate developer eager to learn and contribute to real-world projects. Experienced with modern web technologies and committed to delivering high-quality solutions.',
+    bio: 'I’m an aspiring Software Developer passionate about building impactful and user-centered web applications. I enjoy working across the full development stack—from crafting intuitive UIs to designing secure and scalable backend systems. I love solving real-world problems through clean code, collaboration, and continuous learning.',
     email: 'pagaroganjhonclein@example.com',
     phone: '0969 468 5197',
     profileImage: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop',
-    linkedIn: 'https://linkedin.com/in/yourprofile',
-    github: 'https://github.com/yourprofile',
+    linkedIn: 'https://www.linkedin.com/in/jhon-clein-pagarogan-a514872b0/',
+    github: 'https://github.com/Nishieeee',
   };
 
   const objectives = [
@@ -32,14 +32,14 @@ export default function Home() {
 
   const projects = [
     {
-      title: 'E-Commerce Platform',
-      description: 'Developed a full-featured e-commerce platform with product catalog, shopping cart, and payment integration. Implemented real-time inventory management and order tracking system. This project showcases my ability to build scalable, production-ready applications with complex business logic.',
-      purpose: 'To create a scalable online shopping platform that handles thousands of concurrent users while maintaining high performance and security standards. The system required careful consideration of database design, caching strategies, and API optimization.',
-      contributors: ['John Doe', 'Jane Smith', 'Your Name'],
+      title: 'VAWC Portal',
+      description: 'The VAWC (Violence Against Women and Children) Management System is a centralized digital platform designed to streamline the reporting, tracking, and management of VAWC cases. By integrating multiple government and community-based agencies, the system ensures a coordinated and efficient response to protect victims and hold perpetrators accountable.',
+      purpose: 'The primary goal of the VAWC Portals is to replace fragmented manual processes with a unified, secure, and data-driven ecosystem. It facilitates seamless collaboration between Law Enforcement, Social Workers, Healthcare Providers, and Barangay Officials, ensuring that every case is monitored from the initial report to final resolution.',
+      contributors: ['Jhon Clein Pagarogan'],
       screenshots: [
-        'https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop',
-        'https://images.unsplash.com/photo-1460925895917-adf4e565016c?w=800&h=600&fit=crop',
-        'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop',
+        '/vawc_portal_ss.png',
+        '/vawc_portal_ss_2.png',
+        '/vawc_portal_ss_3.png',
       ],
     },
   ];

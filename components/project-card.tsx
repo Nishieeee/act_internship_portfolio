@@ -98,7 +98,7 @@ export function ProjectCard({
           </div>
 
           <div>
-            <p className="text-accent font-semibold text-sm mb-3">CONTRIBUTORS</p>
+            <p className="text-accent font-semibold text-sm mb-3">ASSIGNED INTERN/s</p>
             <div className="flex flex-wrap gap-2">
               {contributors.map((contributor, idx) => (
                 <span
