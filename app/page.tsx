@@ -90,35 +90,35 @@ export default function Home() {
       majorProgress: [
         'I was able to restore the missing files that were lost during the merge, and I was able to complete to the project documentation along with the setup guide for future developers. Lastly, I began working with the user manuals, creating the core steps and adding snapshots of the projects.'
       ],
-      images: ['https://images.unsplash.com/photo-1460925895917-adf4e565016c?w=800&h=800&fit=crop'],
+      images: ['/week-5.png'],
     },
     {
       weekNumber: 6,
       description: 'For this week, I did the revisions for the vawc user manuals, ensuring quality manuals and excellent readability for it’s users. After that, I continued to debug on the website. I found a total of 4 bugs in the development server and on the deployed project. The bugs were within two days (Thursday and Friday), and I made sure all the solutions were carefully tested to ensure quality experience for it’s user’s during the demo.',
       skillsUsed: ['Django(Python)', 'Project Documentation', 'Problem-solving', 'Hosting/Deployment'],
       majorProgress: ['This week, I have finished doing the revisions for the vawc user manuals, this ensured that the manuals have excellent readability and completeness. After completing the vawc manuals, I went back again to the project and scoured for bugs or issues that may be lying around in the deployed project. I was able to find 4 bugs/issues and I was able to fix/solve them, ensuring that the vawc portal is ready for next week’s project demo.'],
-      images: ['https://images.unsplash.com/photo-1460925895917-adf4e565016c?w=800&h=800&fit=crop']
+      images: ['/week-6.png']
     },
     {
       weekNumber: 7,
       description: 'For this week, I was tasked to implement a new feature to prevent the three provider types to edit a referred case. This feature was made to prevent any accidental tampering with case’s details. Next, with the context of case tampering. I implemented a Case History feature where every edit made to a case’s details are recorded, this feature is useful when someone deliberately tamper with a case. Lastly, I was given another task that involves creating test cases for the upcoming training sessions with providers and the DILG.',
       skillsUsed: ['Django(Python)', 'Testing', 'Project Documentation'],
       majorProgress: ['For this week’s accomplishments, I successfully implemented a feature involving case edit privilege preventing any accidental or intentional tampering with case details. Then, I implemented a feature that tracks edit made to a case. This feature further boosts the vawc portal’s security if in case of intentional tampering or case sabotage. Lastly, I was able to achieved 50% progress with the test cases.'],
-      images: ['https://images.unsplash.com/photo-1460925895917-adf4e565016c?w=800&h=800&fit=crop']
+      images: ['/week-7.png']
     },
     {
       weekNumber: 8,
       description: 'For this week, I continued working on the Test cases for the upcoming vawc training session with the DILG.',
       skillsUsed: ['Django(Python)', 'Testing', 'Project Documentation'],
       majorProgress: ['This week, I was able to create a total of 26 test cases, and were sent to the supervisor-in-charge for review.'],
-      images: ['https://images.unsplash.com/photo-1460925895917-adf4e565016c?w=800&h=800&fit=crop']
+      images: ['/week-8.png']
     },
     {
       weekNumber: 9,
       description: 'For this week, I implemented the revisions for the vawc test cases. I split the test cases by user and organized every table to ensure readability for my supervisor. Then, I made some refactoring and bug fixes for the website as suggested by my supervisor-in-charge. The task ranged from bug fixes for the report printing features to implementing missing modules/features.',
       skillsUsed: ['Django(Python)', 'Problem-Solving', 'Quality Assurance', 'MySQL', 'Cpanel Web hosting'],
       majorProgress: ['For this week’s accomplishment, I completed the vawc test cases and the alpha was initiated. Then, I implemented a missing report printing feature for the super-admin. After that I did some bug fixing ranging from typographical errors in the ui to solving major issues with the tab switching.'],
-      images: ['https://images.unsplash.com/photo-1460925895917-adf4e565016c?w=800&h=800&fit=crop']
+      images: ['/week-8.png']
     },
   ];
 
