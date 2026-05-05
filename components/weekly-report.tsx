@@ -36,7 +36,7 @@ export function WeeklyReport({
       <div className="grid md:grid-cols-2 gap-6">
         {/* Image Section */}
         {images.length > 0 && (
-          <div className="relative bg-secondary/20 aspect-square overflow-hidden group">
+          <div className="relative bg-secondary/20 h-full overflow-hidden group">
             <Image
               src={images[currentImageIndex]}
               alt={`Week ${weekNumber} image ${currentImageIndex + 1}`}
