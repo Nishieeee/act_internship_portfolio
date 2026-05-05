@@ -120,6 +120,27 @@ export default function Home() {
       majorProgress: ['For this week’s accomplishment, I completed the vawc test cases and the alpha was initiated. Then, I implemented a missing report printing feature for the super-admin. After that I did some bug fixing ranging from typographical errors in the ui to solving major issues with the tab switching.'],
       images: ['/week-8.png']
     },
+    {
+      weekNumber: 10,
+      description: 'This week I have started the revisions for the vawc portal. First, I solved the issue for the password reset issue. Next, I redesigned the whole super-admin dashboard along with the graph report page. I also improved the various filters for the dashboard, graph report, and cases page.',
+      skillsUsed: ['Django(Python)', 'Problem-Solving', 'Quality Assurance', 'MySQL', 'Cpanel Web hosting'],
+      majorProgress: ['I was able to revamp the whole super admin color theme while ensuring smooth ui/ux for users. Then, I was able to improve the filtering of the data in the dashboard, graph report and case pages. User experience was overall improved by revamping the ui theme, adding modals and improving data filters.'],
+      images: ['/week-10.png']
+    },
+    {
+      weekNumber: 11,
+      description: 'For this week, I revamped the graph report page into a dynamic report generator, where the super admin user can dynamically reports with dynamic data and dynamic charts and graphs. With the implementation of dynamic report generation, I also created print templates with the DILG header format and implemented more advance type filters. Lastly, a profile page for users was implemented where they can edit their own and add their own logos.',
+      skillsUsed: ['Django(Python)', 'Problem-Solving', 'Quality Assurance', 'MySQL', 'Cpanel Web hosting'],
+      majorProgress: ['This week, I was able to create a dynamic report generator which improves overall efficiency for the vawc cases management. Then, to cater for the users, a profile page feature was created where they can upload their and change their basic information. Data filters were improve by adding checkbox options where user can select multiple filters at once and excluding those that are not needed.'],
+      images: ['/week-11.png']
+    },
+    {
+      weekNumber: 12,
+      description: 'For this week, I was able to implement the dynamic pdf report template for the providers. Next, I implemented new columns and added in a Scanned Id identification/verification.',
+      skillsUsed: ['Djnago(Python)', 'UI/UX', 'Problem-Solving', 'Quality Assurance', 'MySQL', 'Cpanel Web hosting'],
+      majorProgress: ['For this week’s accomplishment, I was able to successfully implement a dynamic report template using the logo and profile information from the user profile. This feature overall improved the report generation for the various user types.'],
+      images: ['/week-12.png']
+    },
   ];
 
   return (
