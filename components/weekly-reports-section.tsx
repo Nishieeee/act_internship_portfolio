@@ -31,7 +31,7 @@ export function WeeklyReportsSection({ weeks }: WeeklyReportsSectionProps) {
     <section className="py-20 px-4 bg-background">
       <div className="max-w-6xl mx-auto">
         <div className="mb-12">
-          <h2 className="text-4xl font-bold text-white mb-3">Weekly Internship Activities</h2>
+          <h2 className="text-4xl font-bold text-yellow-500 mb-3">Weekly Internship Activities</h2>
           <div className="h-1 w-16 bg-accent rounded-full"></div>
         </div>
 
@@ -46,7 +46,7 @@ export function WeeklyReportsSection({ weeks }: WeeklyReportsSectionProps) {
 
           <div className="text-center">
             <p className="text-foreground/60 text-sm">Currently viewing</p>
-            <h3 className="text-3xl font-bold text-white">
+            <h3 className="text-3xl font-bold text-yellow-500">
               Week {weeks[currentWeekIndex]?.weekNumber || 1}
             </h3>
           </div>

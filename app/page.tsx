@@ -8,12 +8,12 @@ import { WeeklyReportsSection } from '@/components/weekly-reports-section';
 export default function Home() {
   // Sample data - Replace with your actual information
   const internData = {
-    name: 'Your Name Here',
-    position: 'Full Stack Developer Intern',
-    company: 'Tech Company Inc.',
+    name: 'Jhon Clein Pagarogan',
+    position: 'Software Engineer Intern',
+    company: 'WMSU - CCS',
     bio: 'Passionate developer eager to learn and contribute to real-world projects. Experienced with modern web technologies and committed to delivering high-quality solutions.',
-    email: 'your.email@example.com',
-    phone: '+1 (555) 000-0000',
+    email: 'pagaroganjhonclein@example.com',
+    phone: '0969 468 5197',
     profileImage: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop',
     linkedIn: 'https://linkedin.com/in/yourprofile',
     github: 'https://github.com/yourprofile',
@@ -108,7 +108,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-12 px-4 bg-card border-t border-border">
         <div className="max-w-6xl mx-auto text-center text-foreground/60">
-          <p>© 2024 Your Name. Internship Portfolio. All rights reserved.</p>
+          <p>© 2026 Jhon Clein Pagarogan. Internship Portfolio. All rights reserved.</p>
         </div>
       </footer>
     </main>

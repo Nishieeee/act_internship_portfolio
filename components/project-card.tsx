@@ -49,13 +49,13 @@ export function ProjectCard({
                   onClick={prevImage}
                   className="absolute left-4 top-1/2 -translate-y-1/2 p-2 bg-black/50 hover:bg-black/70 rounded-full transition opacity-0 group-hover:opacity-100 z-10"
                 >
-                  <ChevronLeft size={24} className="text-white" />
+                  <ChevronLeft size={24} className="text-yellow-500" />
                 </button>
                 <button
                   onClick={nextImage}
                   className="absolute right-4 top-1/2 -translate-y-1/2 p-2 bg-black/50 hover:bg-black/70 rounded-full transition opacity-0 group-hover:opacity-100 z-10"
                 >
-                  <ChevronRight size={24} className="text-white" />
+                  <ChevronRight size={24} className="text-yellow-500" />
                 </button>
 
                 {/* Dot Indicators */}
@@ -84,7 +84,7 @@ export function ProjectCard({
 
       {/* Content Section */}
       <div className="p-8">
-        <h3 className="text-2xl font-bold text-white mb-3">{title}</h3>
+        <h3 className="text-2xl font-bold text-yellow-500 mb-3">{title}</h3>
 
         <div className="space-y-4 mb-6">
           <div>

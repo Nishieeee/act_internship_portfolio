@@ -46,7 +46,7 @@ export function InternInfo({
           {/* Info Section */}
           <div className="space-y-6">
             <div>
-              <h1 className="text-5xl font-bold text-white mb-2">{name}</h1>
+              <h1 className="text-5xl font-bold text-yellow-500 mb-2">{name}</h1>
               <p className="text-xl text-accent font-semibold">{position}</p>
               <p className="text-lg text-muted-foreground mt-1">@ {company}</p>
             </div>

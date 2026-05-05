@@ -11,7 +11,7 @@ export function ObjectivesSection({ objectives }: ObjectivesSectionProps) {
     <section className="py-20 px-4 bg-background">
       <div className="max-w-4xl mx-auto">
         <div className="mb-12">
-          <h2 className="text-4xl font-bold text-white mb-3">Internship Objectives</h2>
+          <h2 className="text-4xl font-bold text-yellow-500 mb-3">Internship Objectives</h2>
           <div className="h-1 w-16 bg-accent rounded-full"></div>
         </div>
 
