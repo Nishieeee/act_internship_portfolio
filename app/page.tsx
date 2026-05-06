@@ -81,7 +81,7 @@ export default function Home() {
       majorProgress: [
         'This week, I was able to successfully test and resolve the issues found in the newly implemented feature, and I was able to successfully merge my development branch into main, resolving many merge conflicts that appeared during the merge process.'
       ],
-      images: ['https://images.unsplash.com/photo-1460925895917-adf4e565016c?w=800&h=800&fit=crop'],
+      images: ['https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=800&fit=crop'],
     },
     {
       weekNumber: 5,
