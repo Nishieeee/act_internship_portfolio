@@ -14,7 +14,7 @@ export default function Home() {
     bio: 'I’m an aspiring Software Developer passionate about building impactful and user-centered web applications. I enjoy working across the full development stack—from crafting intuitive UIs to designing secure and scalable backend systems. I love solving real-world problems through clean code, collaboration, and continuous learning.',
     email: 'pagaroganjhonclein@example.com',
     phone: '0969 468 5197',
-    profileImage: '/img_1046.JPG',
+    profileImage: '/IMG_1046.JPG',
     linkedIn: 'https://www.linkedin.com/in/jhon-clein-pagarogan-a514872b0/',
     github: 'https://github.com/Nishieeee',
   };
